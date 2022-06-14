@@ -1,0 +1,8 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\bin\Debug\netcoreapp2.0\TestODBC.deps.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\bin\Debug\netcoreapp2.0\TestODBC.runtimeconfig.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\bin\Debug\netcoreapp2.0\TestODBC.runtimeconfig.dev.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\bin\Debug\netcoreapp2.0\TestODBC.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\obj\Debug\netcoreapp2.0\TestODBC.csprojResolveAssemblyReference.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\obj\Debug\netcoreapp2.0\TestODBC.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\obj\Debug\netcoreapp2.0\TestODBC.AssemblyInfoInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TestODBC\TestODBC\obj\Debug\netcoreapp2.0\TestODBC.AssemblyInfo.cs

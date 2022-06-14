@@ -1,0 +1,16 @@
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.exe
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.deps.json
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.runtimeconfig.json
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.runtimeconfig.dev.json
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.dll
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\ref\myConsole.dll
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\bin\Debug\net5.0\myConsole.pdb
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.csproj.AssemblyReference.cache
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.AssemblyInfoInputs.cache
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.AssemblyInfo.cs
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.csproj.CoreCompileInputs.cache
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.dll
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\ref\myConsole.dll
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.pdb
+C:\Users\brgil\OneDrive\Documents\estudo\Dev\dotNet\cSharp\myConsole\obj\Debug\net5.0\myConsole.genruntimeconfig.cache

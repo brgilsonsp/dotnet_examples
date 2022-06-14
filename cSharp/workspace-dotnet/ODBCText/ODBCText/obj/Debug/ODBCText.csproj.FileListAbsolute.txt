@@ -1,0 +1,9 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\bin\Debug\ODBCText.exe.config
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\bin\Debug\ODBCText.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\bin\Debug\ODBCText.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.csprojResolveAssemblyReference.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.Properties.Resources.resources
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.csproj.GenerateResource.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBCText\ODBCText\obj\Debug\ODBCText.pdb

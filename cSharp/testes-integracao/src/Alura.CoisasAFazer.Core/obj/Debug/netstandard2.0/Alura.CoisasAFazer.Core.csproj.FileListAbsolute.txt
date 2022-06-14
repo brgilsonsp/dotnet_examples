@@ -1,0 +1,10 @@
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.deps.json
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.csproj.AssemblyReference.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.AssemblyInfoInputs.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.AssemblyInfo.cs
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.csproj.CoreCompileInputs.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Core\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb

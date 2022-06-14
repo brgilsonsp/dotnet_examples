@@ -1,0 +1,11 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\bin\Release\netcoreapp2.0\WaeAPIDotNetCore.deps.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\bin\Release\netcoreapp2.0\WaeAPIDotNetCore.runtimeconfig.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\bin\Release\netcoreapp2.0\WaeAPIDotNetCore.runtimeconfig.dev.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\bin\Release\netcoreapp2.0\WaeAPIDotNetCore.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\bin\Release\netcoreapp2.0\WaeAPIDotNetCore.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.AssemblyInfoInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.AssemblyInfo.cs
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\WaeAPIDotNetCore\WaeAPIDotNetCore\obj\Release\netcoreapp2.0\WaeAPIDotNetCore.pdb

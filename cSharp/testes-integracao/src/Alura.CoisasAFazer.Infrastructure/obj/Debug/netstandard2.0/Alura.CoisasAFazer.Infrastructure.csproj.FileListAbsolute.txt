@@ -1,0 +1,13 @@
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.deps.json
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.dll
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\Alura.CoisasAFazer.Core.pdb
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.AssemblyInfo.cs
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.csproj.CopyComplete
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.dll
+C:\Users\brgil\workspace\fontes\learning\csharp\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\Alura.CoisasAFazer.Infrastructure.pdb

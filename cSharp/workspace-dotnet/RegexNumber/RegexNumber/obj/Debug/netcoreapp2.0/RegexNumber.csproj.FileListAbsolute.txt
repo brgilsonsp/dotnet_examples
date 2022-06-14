@@ -1,0 +1,11 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\bin\Debug\netcoreapp2.0\RegexNumber.deps.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\bin\Debug\netcoreapp2.0\RegexNumber.runtimeconfig.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\bin\Debug\netcoreapp2.0\RegexNumber.runtimeconfig.dev.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\bin\Debug\netcoreapp2.0\RegexNumber.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\bin\Debug\netcoreapp2.0\RegexNumber.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.csprojResolveAssemblyReference.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.AssemblyInfoInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.AssemblyInfo.cs
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\RegexNumber\RegexNumber\obj\Debug\netcoreapp2.0\RegexNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\bin\Debug\netcoreapp2.0\FistTestDotNetCore.deps.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\bin\Debug\netcoreapp2.0\FistTestDotNetCore.runtimeconfig.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\bin\Debug\netcoreapp2.0\FistTestDotNetCore.runtimeconfig.dev.json
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\bin\Debug\netcoreapp2.0\FistTestDotNetCore.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\bin\Debug\netcoreapp2.0\FistTestDotNetCore.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.AssemblyInfoInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.AssemblyInfo.cs
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.dll
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\FistTestDotNetCore\FistTestDotNetCore\obj\Debug\netcoreapp2.0\FistTestDotNetCore.pdb

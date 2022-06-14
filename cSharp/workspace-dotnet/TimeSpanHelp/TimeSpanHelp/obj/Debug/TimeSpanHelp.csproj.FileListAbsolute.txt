@@ -1,0 +1,7 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\bin\Debug\TimeSpanHelp.exe.config
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\bin\Debug\TimeSpanHelp.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\bin\Debug\TimeSpanHelp.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\obj\Debug\TimeSpanHelp.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\obj\Debug\TimeSpanHelp.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\obj\Debug\TimeSpanHelp.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\TimeSpanHelp\TimeSpanHelp\obj\Debug\TimeSpanHelp.csprojResolveAssemblyReference.cache

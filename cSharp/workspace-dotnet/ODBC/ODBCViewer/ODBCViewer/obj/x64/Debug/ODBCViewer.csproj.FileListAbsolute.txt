@@ -1,0 +1,9 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\bin\x64\Debug\ODBCViewer.exe.config
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\bin\x64\Debug\ODBCViewer.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\bin\x64\Debug\ODBCViewer.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.AppMainForm.resources
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.Properties.Resources.resources
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.csproj.GenerateResource.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\ODBC\ODBCViewer\ODBCViewer\obj\x64\Debug\ODBCViewer.pdb

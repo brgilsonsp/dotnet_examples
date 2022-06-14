@@ -1,0 +1,10 @@
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.Form1.resources
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.Properties.Resources.resources
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.csproj.GenerateResource.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.csproj.CoreCompileInputs.cache
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\bin\Debug\EventsStatic.exe.config
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\bin\Debug\EventsStatic.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\bin\Debug\EventsStatic.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.exe
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.pdb
+C:\Users\gilson.souza\Documents\estudo\workspace-dotnet\EventsStatic\EventsStatic\obj\Debug\EventsStatic.csprojResolveAssemblyReference.cache
