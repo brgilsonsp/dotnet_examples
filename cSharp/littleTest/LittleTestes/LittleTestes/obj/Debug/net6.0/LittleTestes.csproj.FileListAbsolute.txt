@@ -1,0 +1,15 @@
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\LittleTestes.exe
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\LittleTestes.deps.json
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\LittleTestes.runtimeconfig.json
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\LittleTestes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\ref\LittleTestes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\bin\Debug\net6.0\LittleTestes.pdb
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.csproj.AssemblyReference.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.AssemblyInfoInputs.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.AssemblyInfo.cs
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.csproj.CoreCompileInputs.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\ref\LittleTestes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.pdb
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\littleTest\LittleTestes\LittleTestes\obj\Debug\net6.0\LittleTestes.genruntimeconfig.cache

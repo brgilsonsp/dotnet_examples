@@ -1,0 +1,16 @@
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.exe
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.deps.json
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.runtimeconfig.json
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.runtimeconfig.dev.json
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\ref\AnotationAttributes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\bin\Debug\net5.0\AnotationAttributes.pdb
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.csproj.AssemblyReference.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.AssemblyInfoInputs.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.AssemblyInfo.cs
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\ref\AnotationAttributes.dll
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.pdb
+C:\Users\brgil\workspace\fontes\learning\dotNet_examples\cSharp\AnotationAttributes\AnotationAttributes\obj\Debug\net5.0\AnotationAttributes.genruntimeconfig.cache
